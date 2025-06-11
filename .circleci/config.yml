@@ -15,8 +15,8 @@ jobs:
           name: Run Postman Collection
           command: |
             ls -la                         # Перевірка наявності файлів
-            npx newman run CourseProjectCollection \
-              --environment CourseProjectenv \
+            npx newman run CourseProjectCollection.json \
+              --environment CourseProjectenv.json \
               --reporters cli,json \
               --reporter-json-export results/report.json
 
