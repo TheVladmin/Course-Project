@@ -1,0 +1,27 @@
+{
+	"id": "aa86c93e-d13c-4ff0-a032-68c05ddafd1f",
+	"name": "Course Project env",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://api.clickup.com/api/v2",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "pk_200560026_VKUWQJL9H8ZFATE4LQM8HMW8RRLL1M7Z",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "list_id",
+			"value": "901511986879",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2025-06-11T15:09:01.177Z",
+	"_postman_exported_using": "Postman/11.49.0"
+}
